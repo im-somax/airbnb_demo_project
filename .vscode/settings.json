@@ -1,4 +1,5 @@
 {
     "dbt.dbtPath": "C:\\Users\\ACER\\OneDrive\\Documents\\My_Projects\\AWS_DBT_SNOWFLAKE\\.venv\\Scripts\\dbt.EXE",
-    "dbt.profilesDir": "C:\\Users\\ACER\\OneDrive\\Documents\\My_Projects\\AWS_DBT_SNOWFLAKE\\aws_dbt_snowflake"
+    "dbt.profilesDir": "C:\\Users\\ACER\\OneDrive\\Documents\\My_Projects\\AWS_DBT_SNOWFLAKE\\aws_dbt_snowflake",
+    "dbt.enableNewLineagePanel": true
 }

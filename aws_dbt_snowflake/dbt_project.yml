@@ -18,7 +18,4 @@ models:
   aws_dbt_snowflake:
     bronze:
       +materialized: table
-    silver:
-      +materialized: table
-    gold:
-      +materialized: table
+      +schema: bronze
