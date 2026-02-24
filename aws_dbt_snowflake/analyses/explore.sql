@@ -1,1 +1,1 @@
-select * from {{ref('bronze_bookings')}}
+select * from {{ref('obt')}}

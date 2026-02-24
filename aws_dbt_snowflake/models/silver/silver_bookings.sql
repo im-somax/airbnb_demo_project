@@ -11,6 +11,7 @@ select
     {{multiply('NIGHTS_BOOKED','BOOKING_AMOUNT',2)}}AS TOTAL_AMOUNT,
     CLEANING_FEE,
     SERVICE_FEE,
+    BOOKING_STATUS,
     CREATED_AT
     from 
         {{ref('bronze_bookings')}}
